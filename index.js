@@ -33,6 +33,6 @@ async function main() {
 
 main();
 
-app.listen(3000, () => {
+app.listen(3100, () => {
   console.log("Server has started");
 });
